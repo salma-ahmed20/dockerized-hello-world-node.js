@@ -1,3 +1,3 @@
 # dockerized-hello-world-node.js
 
-Dockerize a Hello-World Node.js Application
+Creating a dockerfile to build an image to run Hello-World Node.js application container
